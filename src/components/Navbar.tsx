@@ -49,7 +49,7 @@ export function Navbar() {
         </ul>
 
         <a
-          href="https://wa.me/" 
+          href="https://wa.me/923367372243" 
           className="hidden rounded-full bg-gradient-to-r from-[var(--neon-blue)] to-[var(--neon-purple)] px-5 py-2 text-sm font-semibold text-background shadow-neon transition hover:scale-105 md:inline-block"
         >
           Hire Me
