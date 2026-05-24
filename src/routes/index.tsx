@@ -11,9 +11,9 @@ import { CursorGlow } from "@/components/CursorGlow";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Shaheer Asif Mirza — Cinematic Video Editor" },
-      { name: "description", content: "Professional video editor & creative storyteller. Cinematic edits, gaming montages, reels, YouTube content, and commercial work." },
-      { property: "og:title", content: "Shaheer Asif Mirza — Cinematic Video Editor" },
+      { title: "Shaheer Portfolio — Cinematic Video Editor" },
+      { name: "description", content: "Shaheer Asif Mirza — professional video editor & creative storyteller. Cinematic edits, gaming montages, reels, YouTube content, and commercials." },
+      { property: "og:title", content: "Shaheer Portfolio — Cinematic Video Editor" },
       { property: "og:description", content: "Transforming raw footage into cinematic experiences that capture attention and tell powerful stories." },
       { property: "og:type", content: "website" },
     ],
