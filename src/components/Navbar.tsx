@@ -32,7 +32,7 @@ export function Navbar() {
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-6">
         <a href="#home" className="flex items-center gap-2 font-display text-lg font-bold tracking-tight">
           <span className="inline-block h-2 w-2 rounded-full bg-[var(--neon-purple)] shadow-[0_0_12px_var(--neon-purple)]" />
-          SAM<span className="text-muted-foreground">.studio</span>
+          Shaheer<span className="text-muted-foreground">.portfolio</span>
         </a>
 
         <ul className="hidden items-center gap-8 md:flex">
