@@ -48,13 +48,13 @@ export function About() {
             transition={{ duration: 0.8 }}
             className="relative"
           >
-            <div className="relative overflow-hidden rounded-3xl glass-strong">
-              <img
-                src={shaheer}
-                alt="Shaheer Asif Mirza, video editor"
-                className="aspect-[4/5] w-full object-cover"
-                loading="lazy"
-              />
+            <div className="w-[350px] h-[500px] rounded-3xl overflow-hidden shadow-2xl border border-blue-500/20 flex items-center justify-center bg-black">
+  <img
+    src={shaheer}
+    alt="Shaheer Asif Mirza"
+    className="w-full h-full object-contain rounded-3xl"
+  />
+
               <div className="absolute inset-0 bg-gradient-to-t from-background via-transparent to-transparent" />
               <div className="absolute bottom-6 left-6 right-6">
                 <p className="font-display text-xl font-bold">Shaheer Asif Mirza</p>
